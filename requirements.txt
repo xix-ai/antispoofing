@@ -1,0 +1,4 @@
+timm==0.5.4
+wandb==0.12.18
+omegaconf==2.2.2
+classy-vision==0.6.0
