@@ -2,9 +2,16 @@
 
 **Nikolay Sergievskiy, Roman Vlasov, Roman Trusov**
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/generalizable-method-for-face-anti-spoofing/face-anti-spoofing-on-msu-mfsd)](https://paperswithcode.com/sota/face-anti-spoofing-on-msu-mfsd?p=generalizable-method-for-face-anti-spoofing)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/generalizable-method-for-face-anti-spoofing/face-anti-spoofing-on-replay-attack)](https://paperswithcode.com/sota/face-anti-spoofing-on-replay-attack?p=generalizable-method-for-face-anti-spoofing)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/generalizable-method-for-face-anti-spoofing/face-anti-spoofing-on-oulu-npu)](https://paperswithcode.com/sota/face-anti-spoofing-on-oulu-npu?p=generalizable-method-for-face-anti-spoofing)
+
 This is the official implementation of the paper [Generalizable Method for Face Anti-Spoofing with Semi-Supervised Learning](https://arxiv.org/abs/2206.06510) by the ML research team from [Entry](https://getentry.com)
 
 [arXiv](https://arxiv.org/abs/2206.06510)
+
 
 ## Requirements
 
