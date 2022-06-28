@@ -12,6 +12,9 @@ This is the official implementation of the paper [Generalizable Method for Face 
 
 [arXiv](https://arxiv.org/abs/2206.06510)
 
+## Dataset and models status
+
+This work is done using a proprietary dataset, which is why we cannot share the data or pretrained models.
 
 ## Requirements
 
